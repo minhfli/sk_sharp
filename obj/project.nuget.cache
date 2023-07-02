@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MnGLZyuCmfiDESjx+C9UEtJjAIhnPy07SOdPCZOb65k9ycMRZPPFGjRIV4bkGEmMdi7ZjI1GZ7w/Tf+mGWOajg==",
+  "dgSpecHash": "7FNQYKT2iyx/bHgu0p39nV/Wk1sAt4G4VZEJbRa6VxRrOAb1wfGrOBYnvbwq/XGautose6GvZPBpuccw+g7AKQ==",
   "success": true,
   "projectFilePath": "D:\\coding\\C#\\sk_sharp\\sk_sharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\sayers.sdl2.core\\1.0.11\\sayers.sdl2.core.1.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
